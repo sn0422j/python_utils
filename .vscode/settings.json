@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/opt/conda/envs/utils/bin/python",
+    "python.condaPath": "/opt/conda/envs/utils/bin/python",
+    
+    "python.formatting.blackPath": "/opt/conda/envs/utils/bin/black",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true
+}
