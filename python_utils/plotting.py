@@ -1,7 +1,7 @@
 from typing import Optional
 
 
-def make_axis_style(
+def make_axes_style(
     *,
     xlim: Optional[list] = None,
     ylim: Optional[list] = None,
