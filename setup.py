@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="python-utils",
+    name="python_utils",
     version="0.1.0",
     description="Python Utilities",
     author="sn0422j",
