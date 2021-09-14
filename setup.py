@@ -8,4 +8,5 @@ setup(
     packages=find_packages("python_utils"),
     package_dir={"": "python_utils"},
     python_requires=">=3.7",
+    py_modules=["python_utils"],
 )
